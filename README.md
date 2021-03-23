@@ -6,4 +6,4 @@ This project implements a simple Linux-based file transfer system that uses web 
 
 # Repository Structure
 
-The source code for both the client and server is located in the src/ folder. **All files in the src/ directory have not been modified since being submitted as part of this course assignment.** For more details about how to interact with this program, please see [the original README file in the src/ repository](src/README.txt) that was submitted as part of this course assignment.
+The source code for both the client and server is located in the src/ folder. **All files in the src/ directory have not been modified since being submitted as part of this course assignment.** For more details about how to interact with this program, please see [the original README file in the src/ directory](src/README.txt) that was submitted as part of this course assignment.
